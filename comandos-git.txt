@@ -1,0 +1,48 @@
+## COMANDOS DE NAVEGAÇÃO
+
+dir - (lista os diretórios da raiz);
+
+cd ~ - (retorna para raiz);
+
+## COMANDOS DE CRIAÇÃO E EDIÇÃO (PASTAS)
+
+mkdir - (Cria uma pasta/diretório)
+
+## COMANDOS DE CRIAÇÃO E EDIÇÃO (ARQUIVOS)
+
+EXEMPLO:
+ mv ~/documents/teste/index.html/teste.html ~/documents/teste
+
+MODELO:
+mv "raiz do arquivo" "raiz da nova pasta"
+
+tiagosfneves
+
+Git@102210
+
+
+
+
+
+-git add "arquivo-novo.txt"
+-git commit "..."
+-git push "estudos-git"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
